@@ -1,5 +1,5 @@
 repos:
-  - repo: https://github.com/hjordo1/pre-commit-hooks
-    rev: v1
+  - repo: https://github.com/hjordo1/pre-commit-spectral
+    rev: v1.2
     hooks:
-      - id: check-symlinks
+      - id: spectralscan
