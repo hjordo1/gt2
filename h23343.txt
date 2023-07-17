@@ -1,0 +1,50 @@
+            "vcenterSsoUser": "administrator@vsphere.local",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+a
+a
+
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+
+            "vcenterSsoUser": "administrator@vsphere.local",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+a
+a
+
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+
+            "vcenterSsoUser": "administrator@vsphere.local",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+a
+a
+
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+
+            "vcenterSsoUser": "administrator@vsphere.local",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+a
+a
+
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+
+            "vcenterSsoUser": "administrator@vsphere.local",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQKAAAA",
+a
+a
+
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+            "vcenterSsoPasswordBase64": "dGVzdDEyMzQxNDE0MTQxNDE0MTQK",
+
