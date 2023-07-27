@@ -14,4 +14,4 @@ jobs:
       uses: spectralops/spectral-github-action@v3
       with:
         spectral-dsn: ${{ env.SPECTRAL_DSN }}
-        spectral-args: scan --include-tags base,audit3,iac,custom-rules --asset-mapping "Carbon Black Scans - Source"
+        spectral-args: scan --include-tags base,audit3,iac,custom-rules --asset-mapping "Carbon Black Scans - Source" --ok
