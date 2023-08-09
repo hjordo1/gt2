@@ -3,3 +3,4 @@ client_id=881993380038383jdjxbco38.apps.googleusercontent.com&
 client_secret={client_secret}&
 redirect_uri=https://oauth2-demo.com/code&
 grant_type=authorization_code
+awsToken := "AKIALALEMEL33243OLIA"
